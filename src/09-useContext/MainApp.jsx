@@ -14,8 +14,6 @@ export const MainApp = () => {
 
       <hr />
 
-
-
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="about" element={<AboutPage />} />
